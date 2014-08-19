@@ -22,6 +22,7 @@ struct p_data {
 	long n; // Paketanzahl
 	double datarate, droprate, delay;
 };
+
 struct packet {
 	long l; // Paket länge
 	long n; //Paket Anzahl
